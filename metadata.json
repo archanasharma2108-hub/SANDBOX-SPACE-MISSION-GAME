@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Horizon 2026 — 3D Space Mission Architect",
+  "description": "An interactive 3D spaceflight simulator and mission engineering game inspired by Spaceflight Simulator 2. Design rockets and satellites, balance budgets and orbital physics, and fly 27 historic and modern NASA, USSR, and ISRO missions across Earth, Moon, Mars, and Venus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
